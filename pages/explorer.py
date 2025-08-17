@@ -107,7 +107,7 @@ layout = dbc.Container([
                             ]
                                             ),
                             className = 'text-center'
-                            ), width=3
+                            ), width=6, lg=3
 
 
                     ),
@@ -121,7 +121,7 @@ layout = dbc.Container([
                             ]
                                             ),
                             className="text-center",
-                            ),width = 3
+                            ),width = 6, lg=3
                     ),
             dbc.Col(
                     dbc.Card(
@@ -132,7 +132,7 @@ layout = dbc.Container([
                             ]
                                             ),
                             className="text-center",
-                            ), width=3
+                            ), width=6, lg=3
                     ),
             dbc.Col(
                     dbc.Card(
@@ -143,7 +143,7 @@ layout = dbc.Container([
                             ]
                                             ),
                             className="text-center",
-                            ), width = 3
+                            ), width = 6, lg=3
                     )
 
 
@@ -202,7 +202,7 @@ layout = dbc.Container([
                 ),
 
             ]),
-            width = 3,
+            width = 12, lg=3,
             className='big-light p-4 rounded'
         ),
 
@@ -227,7 +227,7 @@ layout = dbc.Container([
                                 className='text-end bg-transparent border-0'
                     )
                 ], className='border-0')
-            ), width =5,
+            ), width =12, lg=5,
             style={'height': '85vh', 'overflow': 'auto'} #vh = viewport height
         ),
 
@@ -240,7 +240,7 @@ layout = dbc.Container([
 
                           ]
                  )
-            ), width = 4
+            ), width = 12, lg=4
 
         ),
 
