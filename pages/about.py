@@ -38,8 +38,11 @@ layout = dbc.Container([
                 "to provide deep, data-driven insights and personalized recommendations.",
                 className="lead text-center mb-5"
             ),
+
             width=10,
             className="mx-auto"
+
+
         )
     ),
 
@@ -94,7 +97,8 @@ layout = dbc.Container([
                  #               " "])),
                 html.Li(html.P([html.Strong("Your Profile Page: "),
                                 "Enter a user ID to see a personalized dashboard, which includes your reading stats, a virtual bookshelf, and recommendations tailored to your reading history. (Note: User IDs are in the format User_xxxxx, for example: User_00001 or User_12345)."])),
-            ])
+            ]),
+            html.P(["Data Source: ", html.A("GoodReads", href ="https://mavenanalytics.io/data-playground/goodreads-book-reviews", target="_blank")])
         ], width=12, lg=8, className="mx-auto")
     ])
 
