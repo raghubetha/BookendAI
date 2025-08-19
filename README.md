@@ -22,8 +22,8 @@ Bookend AI is a multi-page dashboard with three main interactive views:
 
 ### **Data Science & Machine Learning**
 
-* **Data Processing: ** Pandas for cleaning, feature engineering (e.g., calculating reading time), and creating weighted popularity scores.
-* **Recommendation Engines: **
+* **Data Processing:** Pandas for cleaning, feature engineering (e.g., calculating reading time), and creating weighted popularity scores.
+* **Recommendation Engines:**
   * **Content-Based Filtering: Scikit-learn** using **TF-IDF** vectorization and **Cosine Similarity**.
   * **Collaborative Filtering: scikit-surprise** library using **Singular Value Decomposition (SVD)** with hyperparameter tuning.
 * **Natural Language Processing (NLP):**
