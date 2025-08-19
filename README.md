@@ -18,7 +18,7 @@ Bookend AI is a multi-page dashboard with three main interactive views:
 * **Book Deep Dive Page: ** A detailed report on any book in the dataset. This view provides metadata, rating distributions, a word cloud of common review topics, and AI-generated abstractive summaries that provide a "Reader's Consensus."
 * **Your Profile Page: ** A personalized dashboard that generates upon entering a user_id. This view includes custom analytics on a user's reading habits (average rating, favorite genre), a virtual bookshelf of their reading history, and two types of recommendations from the machine learning models.
 
-##**Technical Stack
+## **Technical Stack
 
 ### **Data Science & Machine Learning**
 
@@ -45,7 +45,7 @@ Bookend AI is a multi-page dashboard with three main interactive views:
 * **Data Hosting: Google Cloud Storage (GCS)** for hosting the large dataset.
 * **Cloud Platform: Render** for continuous deployment and hosting.
 
-##**Setup and Installation**
+## **Setup and Installation**
 
 To run this project locally, please follow these steps:
 
@@ -55,19 +55,19 @@ To run this project locally, please follow these steps:
    cd BookendAI
    ```
 
-2. Create and activate a virtual environment:
+2. **Create and activate a virtual environment:**
    ```bash
    python -m venv venv
    source venv/bin/activate
     # On Windows, use `venv\Scripts\activate`
    ```
 
-3. Install dependencies:
+3. **Install dependencies:**
    ```bash
      pip install -r requirements.txt
    ```
 
-4. Run the application:
+4. **Run the application:**
    ```bash
      python app.py
    ```
