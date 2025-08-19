@@ -6,11 +6,11 @@ A full-stack data science application that leverages over one million Goodreads 
 
 *This project was developed as a personal portfolio piece to showcase skills in end-to-end data science, from data processing and advanced machine learning to building and deploying a user-facing interactive web application.*
 
-##**Problem Statement**
+## **Problem Statement**
 
 In a world with millions of books, the process of discovering a new book that truly matches one's taste can be overwhelming. Standard recommendations often rely on broad genres, failing to capture the nuanced preferences of individual readers. Bookend AI was built to solve this problem by analyzing not just what books people rate highly, but the rich, qualitative data within their written reviews to provide a more intelligent and personalized discovery experience.
 
-##**Features**
+## **Features**
 
 Bookend AI is a multi-page dashboard with three main interactive views:
 
