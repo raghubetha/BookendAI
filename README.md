@@ -14,9 +14,9 @@ In a world with millions of books, the process of discovering a new book that tr
 
 Bookend AI is a multi-page dashboard with three main interactive views:
 
-* **Explorer Page: **Get a high-level overview of the entire book dataset. This page includes dynamically updating KPIs, sortable lists of the "Most Reviewed," "Most Popular," and "Hidden Gem" books, and interactive visualizations for genre and publication trends.
-* **Book Deep Dive Page: ** A detailed report on any book in the dataset. This view provides metadata, rating distributions, a word cloud of common review topics, and AI-generated abstractive summaries that provide a "Reader's Consensus."
-* **Your Profile Page: ** A personalized dashboard that generates upon entering a user_id. This view includes custom analytics on a user's reading habits (average rating, favorite genre), a virtual bookshelf of their reading history, and two types of recommendations from the machine learning models.
+* **Explorer Page:** Get a high-level overview of the entire book dataset. This page includes dynamically updating KPIs, sortable lists of the "Most Reviewed," "Most Popular," and "Hidden Gem" books, and interactive visualizations for genre and publication trends.
+* **Book Deep Dive Page:** A detailed report on any book in the dataset. This view provides metadata, rating distributions, a word cloud of common review topics, and AI-generated abstractive summaries that provide a "Reader's Consensus."
+* **Your Profile Page:** A personalized dashboard that generates upon entering a user_id. This view includes custom analytics on a user's reading habits (average rating, favorite genre), a virtual bookshelf of their reading history, and two types of recommendations from the machine learning models.
 
 ## **Technical Stack**
 
